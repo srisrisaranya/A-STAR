@@ -197,3 +197,5 @@ Path found: ['A', 'E', 'D', 'G']
 # OUTPUT:
 <img width="623" height="352" alt="image" src="https://github.com/user-attachments/assets/ceff9ab6-25a3-40f7-b805-088aabdd2c64" />
 
+# RESULT:
+Thus the Implementing of A * Search algorithm for a Graph using Python is executed successfully.
